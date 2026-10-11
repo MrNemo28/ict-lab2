@@ -1,0 +1,6 @@
+backup/
+logs/
+*.log
+*.tar.gz
+*.zip
+docs/secret.txt
